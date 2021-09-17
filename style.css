@@ -1,0 +1,15 @@
+#canvas1{
+    border:5px crimson ridge;
+    background-color:white;
+}
+body{
+    background-image:url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#c1{
+    border-radius:40px;
+     color: black;
+    background:linear-gradient(pink,yellow);
+    font-size:18px;
+}
